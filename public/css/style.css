@@ -68,16 +68,20 @@ h1,h3{
 
 /* début exo 03 background-position*/
 .img-1{ 
-    background-position: top;
+    background-image:url(../../public/images/bg_image.jpg);
+    background-position: ;
 }
 .img-2{
-
+    background-image:url(../../public/images/bg_image.jpg);
+    background-position: center;
 }
 .img-3{
-
+    background-image:url(../../public/images/bg_image.jpg);
+    background-position: right;
 }
 .img-4{
-
+    background-image:url(../../public/images/bg_image.jpg);
+    background-position: left;
 }
 /* fin exo 03 background-position*/
 
