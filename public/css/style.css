@@ -101,18 +101,29 @@ h1,h3{
 /* fin exo 04 background-repeat*/
 
 /* début exo 05 background-size*/
-.img-8{ 
+.img-8{
+    background-image: url(../../public/images/bg_image_petite.jpg);
+    background-size:60px;
 }
 .img-9{ 
+    background-image: url(../../public/images/bg_image_petite.jpg);
+    background-size: 30%;;
 }
 .img-10{
+    background-image: url(../../public/images/bg_image_petite.jpg);
+    background-size: cover;
 }
 .img-11{
+    background-image: url(../../public/images/bg_image_petite.jpg);
+    background-size: ;
 }
 /* fin exo 05 background-size*/
 
 /* début exo 06 background-attachement*/
 .img-12{
+    background-image: url(../../public/images/bg_image_petite.jpg);
+    background-size: cover;
+    background-attachment: fixed;
 }
 .img-13{
 }
